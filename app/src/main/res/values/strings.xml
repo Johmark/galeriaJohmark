@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">galeriaJohmark</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="imagenPrevia">Imagen Previa</string>
+    <string name="galerydescription">Progra3</string>
+    <string name="username">Ususario</string>
+    <string name="password">Password</string>
+    <string name="loggin">Log in</string>
+    <string name="register">Register</string>
+    <string name="registerlogin">Register and Log in</string>
+    <string name="loginerror">Susedio un error al iniciar secion, revise que los campos esten correctos</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Autor">Autor</string>
+    <string name="subir">Subir</string>
+    <string name="agregarPrevia">Agregar imagen</string>
+    <string name="tryregister">No encontro la informacion del Usuario, para solucionar Registrese.</string>
+    <string name="roll">Roll</string>
+    <string name="app_lognin">Iniciar Seción</string>
+    <string name="app_registrate">Regirtrate</string>
+    <string name="logout">Cerrar Seción</string>
+</resources>
