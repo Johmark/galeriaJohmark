@@ -52,7 +52,7 @@ public class Functions
     public static void loadImage( ImageView imagePrev, Context context)
     {
         Glide.with(context)
-                .load(R.mipmap.ic_launcher_round)
+                .load(R.mipmap.web_hi_res_512)
                 .apply(options)
                 .transition(withCrossFade())
                 .into(imagePrev);

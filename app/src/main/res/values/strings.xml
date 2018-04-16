@@ -19,4 +19,5 @@
     <string name="app_lognin">Iniciar Seción</string>
     <string name="app_registrate">Regirtrate</string>
     <string name="logout">Cerrar Seción</string>
+    <string name="app_Start">Galeria de Ejemplo</string>
 </resources>
